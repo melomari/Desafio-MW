@@ -1,6 +1,6 @@
 # Desafio MW
 
-Este projeto foi desenvolvido como parte do processo seletivo da empresa MW Soluções. Ele permite a importação de dados a partir de um arquivo CSV para o banco de dados QuestDB, utilizando um script em Python e Docker para a orquestração dos serviços.
+Este projeto foi desenvolvido como parte do processo seletivo da empresa MW Soluções. Ele permite a importação de dados a partir de um arquivo CSV para o banco de dados QuestDB, utilizando um script em Python e Docker para a execução dos serviços.
 
 ## Estrutura do Projeto
 
